@@ -1,4 +1,4 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+### —͟͟͞͞Coca Arav 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
@@ -107,7 +107,7 @@ Click the image above to watch the step-by-step tutorial on YouTube.
   </a>
 
   <!-- ⭐ Import Button -->
-  <a href="https://github.com/new/import?source=https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
+  <a href="https://github.com/new/import?source=https://github.com/Cocaarav-sahu/Coca Arav-CHAT-BOT">
     <img src="https://img.shields.io/badge/IMPORT%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Import Repo">
   </a>
 
