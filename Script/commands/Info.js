@@ -50,7 +50,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 │ m.me/61588342577468
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-│ wa.me/+8801320578537
+│ wa.me/+88013205.....
 │
 ╰───────⭓
 
@@ -62,7 +62,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
+ 😍Coca Arav 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
  "https://i.imgur.com/zqsuJnX.jpeg",
